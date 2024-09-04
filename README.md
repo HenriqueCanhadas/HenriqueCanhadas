@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/HenriqueCanhadas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCanhadas&show_icons=true&theme=tokyonight&include_all_comits=true&count_prtivate=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCanhadas&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCanhadas&show_icons=true&theme=tokyonight&include_all_comits=true&count_prtivate=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCanhadas&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
