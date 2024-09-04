@@ -1,7 +1,7 @@
 # **Olá! Sou Henrique Canhadas**
 
 <div>
-<a href="https://github.com/FernandoMachado27">
+<a href="https://github.com/HenriqueCanhadas">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCanhadas&show_icons=true&theme=tokyonight&include_all_comits=true&count_prtivate=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCanhadas&layout=compact&langs_count=16&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCanhadas&theme=tokyonight"/>
